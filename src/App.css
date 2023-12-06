@@ -1,0 +1,17 @@
+.header {
+  background-color: lightcyan;
+  padding: 20px;
+}
+.products {
+  display: flex;
+}
+.product {
+  background-color: cyan;
+  margin: 20px;
+  text-align: center;
+}
+.product img {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+}
